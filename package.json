@@ -1,0 +1,18 @@
+{
+  "name": "doomsday-receipt",
+  "version": "1.0.0",
+  "description": "The Doomsday Receipt — Viral Pre-Premiere Avengers: Doomsday Death Pool & Theory Lock-In App",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node server.mjs",
+    "test": "node test.mjs"
+  },
+  "keywords": [
+    "avengers-doomsday",
+    "mcu",
+    "viral-web-app",
+    "receipt"
+  ],
+  "license": "MIT"
+}
